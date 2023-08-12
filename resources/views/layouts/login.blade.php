@@ -4,7 +4,7 @@
         <!-- /.login-logo -->
         <div class="card card-outline card-primary">
             <div class="card-header text-center">
-              <a href="javascript:void(0)" class="h1"><b>Student Login </b></a>
+              <a href="javascript:void(0)" class="h1"><b>Welcome Login </b></a>
             </div>
             <div class="card-body">
               @if (Session::has('success'))
